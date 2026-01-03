@@ -1,0 +1,7 @@
+{
+  "name": "Mobile Code Studio",
+  "description": "A sleek, mobile-first IDE dashboard and AI developer assistant for building Android applications on the go.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
